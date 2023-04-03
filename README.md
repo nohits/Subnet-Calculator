@@ -1,3 +1,3 @@
-Excel based subnet calc.
+subnet calculator that displays all things subnetting.
 
-shows everything about your subnet.
+use this if you want to learn everything about subnet.
