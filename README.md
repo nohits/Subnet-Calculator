@@ -1,4 +1,4 @@
-an excel based subnet calc.
+an excel based subnet calculator.
 
 input ip address info in the tan cells and hit enter.
 
