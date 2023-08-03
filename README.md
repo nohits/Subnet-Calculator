@@ -1,4 +1,5 @@
-an excel based subnet calculator.
+An excel based subnet calculator.
 
-input ip address into tan cells.
+Input ip address and subnet mask into the tan cells.
 
+All relevant info about the network will be shown.
