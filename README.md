@@ -1,6 +1,6 @@
 # Excel Subnet Calculator
 
-Welcome to the Excel Subnet Calculator! This tool is designed to help you calculate and analyze subnets directly within Microsoft Excel. It's perfect for network administrators, IT professionals, and anyone who needs to work with subnetting on a regular basis.
+This tool is designed to help you calculate and analyze subnets directly within Microsoft Excel. It's perfect for network administrators, IT professionals, and anyone who needs to work with subnetting on a regular basis.
 
 ## Features
 
