@@ -1,11 +1,11 @@
 # Excel Subnet Calculator
 
-This tool is designed to help you calculate and analyze subnets directly within Microsoft Excel. It's perfect for network administrators, IT professionals, and anyone who needs to work with subnetting on a regular basis.
+This tool is designed to help you calculate and analyze subnets directly within Microsoft Excel. It's perfect for network administrators, IT professionals, and anyone who needs to work with subnetting on a regular basis. This tool contains all things subnetting.
 
 ## Features
 
 - Subnet Calculation: Easily calculate subnets, including network address, broadcast address, and available hosts.
-- CIDR Notation: Supports Classless Inter-Domain Routing (CIDR) notation.
+- Binary to Decimal Conversions.
 - User-Friendly Interface: Simple and intuitive interface for quick and easy subnet calculations.
 - Excel-Based: Leverages the power and flexibility of Microsoft Excel, making it accessible and easy to integrate with other Excel-based tools and workflows.
 
