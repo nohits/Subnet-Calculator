@@ -2,6 +2,7 @@
 
 This tool is designed to help you calculate and analyze subnets directly within Microsoft Excel. It's perfect for network administrators, IT professionals, and anyone who needs to work with subnetting on a regular basis. This tool contains all things subnetting.
 
+
 ## Features
 
 - Subnet Calculation: Easily calculate subnets, including network address, broadcast address, and available hosts.
@@ -9,12 +10,14 @@ This tool is designed to help you calculate and analyze subnets directly within 
 - User-Friendly Interface: Simple and intuitive interface for quick and easy subnet calculations.
 - Excel-Based: Leverages the power and flexibility of Microsoft Excel, making it accessible and easy to integrate with other Excel-based tools and workflows.
 
+
 # Getting Started
 
 
 ## Prerequisites
 
 - Microsoft Excel (2010 or later)
+
 
 ## Installation
 1. Clone the Repository: 
@@ -24,6 +27,7 @@ git clone https://github.com/softwaresuave/subnet-calculator.git
 2. Open the Excel File: 
 	- Navigate to the cloned directory and open the SubnetCalculator.xlsx file with Microsoft Excel.
 
+
 ## Usage
 
 1. Input the IP Address and Subnet Mask:
@@ -32,6 +36,8 @@ git clone https://github.com/softwaresuave/subnet-calculator.git
 
 2. View Calculations:
 	- The calculator will automatically display the network address, broadcast address, number of available hosts, binary to decimal calculations and other relevant subnet information.
+
+
 # Example
 
 - IP Address: 192.168.1.0
@@ -44,6 +50,7 @@ The calculator will provide:
 - Host Ranges
 - Binary to Decimal Conversions
 
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
@@ -54,9 +61,11 @@ Contributions are welcome! Please follow these steps to contribute:
 - Push to the branch (git push origin feature/your-feature).
 - Open a pull request.
 
+
 ## License
 
 GNU - Open
+
 
 ## Contact
 
