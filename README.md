@@ -9,7 +9,7 @@ This tool is designed to help you calculate and analyze subnets directly within 
 - User-Friendly Interface: Simple and intuitive interface for quick and easy subnet calculations.
 - Excel-Based: Leverages the power and flexibility of Microsoft Excel, making it accessible and easy to integrate with other Excel-based tools and workflows.
 
-## Getting Started
+# Getting Started
 
 
 ## Prerequisites
